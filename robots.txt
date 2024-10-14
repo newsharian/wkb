@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newsharian.github.io/wkb/sitemap.xml
